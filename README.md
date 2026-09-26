@@ -23,9 +23,6 @@ Smart attendance management system using powerbi
    3. How to use Ai efficiently, how to give less word prompt and get best response from AI, resulting in not wasting tokens
    4. Created table in excel sheet so that I can load those excel sheet(table) in powerbi and can explain business need using  visualization in dashboard
 
-Model view of database's tables
-<img width="940" height="641" alt="image" src="https://github.com/user-attachments/assets/923b7d2b-984e-4532-ab97-72443a5873c8" />
-
 
 
 
